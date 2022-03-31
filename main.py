@@ -1,1 +1,1 @@
-print("Tere")
+# teen tööd
