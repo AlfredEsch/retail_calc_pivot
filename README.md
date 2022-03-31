@@ -1,4 +1,4 @@
-# retail calculator pivot
+# Retail Calculator
 
 Calculator that helps you calculate your price on what you are buying.
 
